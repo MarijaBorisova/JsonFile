@@ -1,0 +1,19 @@
+{
+	"Operating Systems": [{
+			"@ID": "1",
+			"Name": "MacOS",
+			"Developer": "Apple",
+			"OSFamily": "Macintosh",
+			"LatestVersion": "10.15.7",
+			"Delete": "X"
+		},
+		{
+			"@ID": "2",
+			"Name": "Windows 10",
+			"Developer": "Microsoft",
+			"OSFamily": "Windows",
+			"LatestVersion": "10.0.19041.572",
+			"Delete": ""
+		}
+	]
+}
